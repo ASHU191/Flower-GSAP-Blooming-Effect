@@ -22,7 +22,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shatlyk1011/flower-blooming-effect
+  
    ```
 2. Navigate to the project directory:
    ```bash
