@@ -1,0 +1,19 @@
+
+@import url("https://fonts.cdnfonts.com/css/pp-neue-montreal");
+
+@import "tailwindcss";
+
+  
+@theme inline {
+  --font-sans: "PP Neue Montreal";
+}
+
+body {
+  color: #171717;
+  font-family: "PP Neue Montreal", sans-serif;
+  font-weight: 400;
+  overflow-x:hidden;
+
+  text-rendering: optimizeLegibility;
+
+}
