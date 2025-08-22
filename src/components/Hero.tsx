@@ -154,12 +154,12 @@ const Hero = () => {
     <>
       {/* header */}
       <header className="absolute text-white top-0 left-0 z-30 flex w-full items-center px-[3vw] py-[2vw] text-[1.4vw] font-medium tracking-wide">
-        <div className="text-[1.6vw] ">DevByShat</div>
+        <div className="text-[1.6vw] ">Flower GSAP</div>
         <nav className="z-100 flex flex-1 items-center justify-end gap-10">
           <ul className="flex gap-9">
-            <li>Item 1</li>
+{/*             <li>Item 1</li>
             <li>Item 2</li>
-            <li>Item 3</li>
+            <li>Item 3</li> */}
           </ul>
         </nav>
       </header>
