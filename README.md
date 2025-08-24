@@ -8,7 +8,7 @@ Enjoy cinematic animations powered by canvas rendering, scroll-based frame mappi
 ## ✨ Features  
 
 - 🎞 **Scroll-Driven Frame Animation** – Maps scroll progress to video frames for a seamless playback illusion.  
-- 🖼 **Canvas Rendering** – Efficient drawing with aspect-ratio fitting & pixel-ratio scaling for HD displays.  
+- 🖼 **Canvas Rendering** – Efficient drawing with aspect-ratio fitting & pixel-ratio scaling for HD displays.     
 - 📌 **GSAP ScrollTrigger** – Pinned sections, smooth scrubbing, and scroll-driven updates.  
 - 📱 **Responsive Design** – Fully adaptive across devices & high-DPI screens.  
 - 🔮 **3D Text Overlay** – Zoom & fade transitions with parallax-like depth.  
